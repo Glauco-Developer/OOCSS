@@ -1,0 +1,27 @@
+/* Skin Styles */
+.header {
+    background-color: #333;
+    color: #fff;
+}
+
+.nav__link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.content__text {
+    font-size: 16px;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+}

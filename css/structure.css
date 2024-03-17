@@ -1,0 +1,32 @@
+/* Structure Styles */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 20px;
+}
+
+.nav__list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav__item {
+    margin: 0 10px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px 0;
+}
